@@ -6,7 +6,7 @@ description: >-
   income insurance, dental insurance, and other employee benefits. This
   is an alias entry; primary record lives at guardian-life.
 type: Index
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 tags:
   - Alias
   - Insurance
